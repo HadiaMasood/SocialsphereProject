@@ -579,6 +579,45 @@ namespace Social_Sphere
             postPanel.Controls.Add(lblContent);
             postPanel.Controls.Add(actionsPanel);
 
+            // Add Edit/Delete buttons for sample posts (demo purposes)
+            Button btnEditSample = new Button
+            {
+                Text = "✏️ Edit",
+                Size = new Size(80, 30),
+                Location = new Point(1000, 12),
+                BackColor = PRIMARY_COLOR,
+                ForeColor = Color.White,
+                FlatStyle = FlatStyle.Flat,
+                Font = new Font("Segoe UI", 9, FontStyle.Bold),
+                Cursor = Cursors.Hand
+            };
+            btnEditSample.FlatAppearance.BorderSize = 0;
+            btnEditSample.Click += (s, e) =>
+            {
+                MessageBox.Show("Edit functionality for sample posts coming soon!", "Info",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+            };
+            postPanel.Controls.Add(btnEditSample);
+
+            Button btnDeleteSample = new Button
+            {
+                Text = "🗑️ Delete",
+                Size = new Size(80, 30),
+                Location = new Point(1000, 50),
+                BackColor = Color.FromArgb(244, 67, 54),
+                ForeColor = Color.White,
+                FlatStyle = FlatStyle.Flat,
+                Font = new Font("Segoe UI", 9, FontStyle.Bold),
+                Cursor = Cursors.Hand
+            };
+            btnDeleteSample.FlatAppearance.BorderSize = 0;
+            btnDeleteSample.Click += (s, e) =>
+            {
+                MessageBox.Show("Delete functionality for sample posts coming soon!", "Info",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+            };
+            postPanel.Controls.Add(btnDeleteSample);
+
             postsPanel.Controls.Add(postPanel);
         }
 
