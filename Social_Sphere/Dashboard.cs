@@ -426,7 +426,7 @@ namespace Social_Sphere
         {
             Panel postPanel = new Panel
             {
-                Size = new Size(1100, 200),
+                Size = new Size(550, 200),
                 BackColor = Color.FromArgb(252, 253, 255),
                 Margin = new Padding(10),
                 BorderStyle = BorderStyle.None
@@ -461,7 +461,7 @@ namespace Social_Sphere
                 Text = post.Content,
                 Font = new Font("Segoe UI", 11),
                 Location = new Point(15, 60),
-                Size = new Size(1070, 80),
+                Size = new Size(450, 80),
                 ForeColor = Color.FromArgb(44, 62, 80),
                 AutoSize = false
             };
@@ -479,8 +479,8 @@ namespace Social_Sphere
                 Button btnEdit = new Button
                 {
                     Text = "✏️ Edit",
-                    Size = new Size(80, 30),
-                    Location = new Point(1000, 12),
+                    Size = new Size(70, 30),
+                    Location = new Point(400, 12),
                     BackColor = PRIMARY_COLOR,
                     ForeColor = Color.White,
                     FlatStyle = FlatStyle.Flat,
@@ -501,8 +501,8 @@ namespace Social_Sphere
                 Button btnDelete = new Button
                 {
                     Text = "🗑️ Delete",
-                    Size = new Size(80, 30),
-                    Location = new Point(1000, 50),
+                    Size = new Size(70, 30),
+                    Location = new Point(475, 12),
                     BackColor = Color.FromArgb(244, 67, 54),
                     ForeColor = Color.White,
                     FlatStyle = FlatStyle.Flat,
@@ -532,7 +532,7 @@ namespace Social_Sphere
         {
             Panel postPanel = new Panel
             {
-                Size = new Size(1100, 200),
+                Size = new Size(550, 200),
                 BackColor = Color.FromArgb(252, 253, 255),
                 Margin = new Padding(10),
                 BorderStyle = BorderStyle.None
@@ -567,7 +567,7 @@ namespace Social_Sphere
                 Text = post.Content,
                 Font = new Font("Segoe UI", 11),
                 Location = new Point(15, 60),
-                Size = new Size(1070, 80),
+                Size = new Size(450, 80),
                 ForeColor = Color.FromArgb(44, 62, 80),
                 AutoSize = false
             };
@@ -578,45 +578,6 @@ namespace Social_Sphere
             postPanel.Controls.Add(lblDate);
             postPanel.Controls.Add(lblContent);
             postPanel.Controls.Add(actionsPanel);
-
-            // Add Edit/Delete buttons for sample posts (demo purposes)
-            Button btnEditSample = new Button
-            {
-                Text = "✏️ Edit",
-                Size = new Size(80, 30),
-                Location = new Point(1000, 12),
-                BackColor = PRIMARY_COLOR,
-                ForeColor = Color.White,
-                FlatStyle = FlatStyle.Flat,
-                Font = new Font("Segoe UI", 9, FontStyle.Bold),
-                Cursor = Cursors.Hand
-            };
-            btnEditSample.FlatAppearance.BorderSize = 0;
-            btnEditSample.Click += (s, e) =>
-            {
-                MessageBox.Show("Edit functionality for sample posts coming soon!", "Info",
-                    MessageBoxButtons.OK, MessageBoxIcon.Information);
-            };
-            postPanel.Controls.Add(btnEditSample);
-
-            Button btnDeleteSample = new Button
-            {
-                Text = "🗑️ Delete",
-                Size = new Size(80, 30),
-                Location = new Point(1000, 50),
-                BackColor = Color.FromArgb(244, 67, 54),
-                ForeColor = Color.White,
-                FlatStyle = FlatStyle.Flat,
-                Font = new Font("Segoe UI", 9, FontStyle.Bold),
-                Cursor = Cursors.Hand
-            };
-            btnDeleteSample.FlatAppearance.BorderSize = 0;
-            btnDeleteSample.Click += (s, e) =>
-            {
-                MessageBox.Show("Delete functionality for sample posts coming soon!", "Info",
-                    MessageBoxButtons.OK, MessageBoxIcon.Information);
-            };
-            postPanel.Controls.Add(btnDeleteSample);
 
             postsPanel.Controls.Add(postPanel);
         }
@@ -645,13 +606,13 @@ namespace Social_Sphere
             Panel actionsPanel = new Panel
             {
                 Location = new Point(15, 145),
-                Size = new Size(1070, 45),
+                Size = new Size(520, 45),
                 BackColor = Color.FromArgb(245, 246, 250)
             };
 
             Button btnLike = CreateActionButton($"❤ Like ({likes})", new Point(10, 8));
-            Button btnComment = CreateActionButton($"💬 Comment ({comments})", new Point(290, 8));
-            Button btnShare = CreateActionButton("🔗 Share", new Point(570, 8));
+            Button btnComment = CreateActionButton($"💬 Comment ({comments})", new Point(180, 8));
+            Button btnShare = CreateActionButton("🔗 Share", new Point(350, 8));
 
             btnLike.Click += (s, e) =>
             {
