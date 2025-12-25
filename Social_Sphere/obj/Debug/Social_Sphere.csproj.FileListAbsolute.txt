@@ -1,0 +1,138 @@
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.exe.config
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.exe
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.AssemblyReference.cache
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Form1.resources
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Properties.Resources.resources
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.GenerateResource.cache
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.CoreCompileInputs.cache
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.exe
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.exe.config
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.signUpForm.resources
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\Models.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\Models.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_S.B5C869E2.Up2Date
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Dashboard.resources
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.exe.config
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.exe
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Models.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Buffers.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Memory.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Models.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Buffers.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Memory.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.AssemblyReference.cache
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.AdminPanel.resources
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Dashboard.resources
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Form1.resources
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Properties.Resources.resources
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.signUpForm.resources
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.GenerateResource.cache
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.CoreCompileInputs.cache
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_S.B5C869E2.Up2Date
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.exe
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.dll.config
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\bin\Debug\Models.dll.config
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.exe.config
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.exe.config
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.exe
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Social_Sphere.pdb
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Options.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Models.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Buffers.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.ComponentModel.Annotations.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Memory.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Numerics.Vectors.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.pdb
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\BusinessLogicLayer.dll.config
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.pdb
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\DataAccessLayer.dll.config
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Models.pdb
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Models.dll.config
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Options.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Buffers.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Memory.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Numerics.Vectors.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.AssemblyReference.cache
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.AdminPanel.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Dashboard.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Form1.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Properties.Resources.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.signUpForm.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.Reports.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.EditPostForm.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.MessagingForm.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.NotificationsForm.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.SearchUsersForm.resources
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.GenerateResource.cache
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.csproj.CoreCompileInputs.cache
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_S.B5C869E2.Up2Date
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.exe
+D:\SocialSphere (2)\SocialSphere\Social_Sphere\obj\Debug\Social_Sphere.pdb

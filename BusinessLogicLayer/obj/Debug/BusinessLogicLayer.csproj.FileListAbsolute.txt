@@ -1,0 +1,39 @@
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\bin\Debug\Models.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\bin\Debug\Models.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\Models.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\Models.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\BusinessLogicLayer\bin\Debug\Models.dll.config
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\Models.dll
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\Models.pdb
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\bin\Debug\Models.dll.config
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\SocialSphere (2)\SocialSphere\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

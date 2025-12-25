@@ -1,0 +1,31 @@
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\bin\Debug\Models.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\bin\Debug\Models.pdb
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\4G Traders\OneDrive\Desktop\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\bin\Debug\Models.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\bin\Debug\Models.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\WT\OneDrive\Desktop\ADV PROGRAMMING PRACTICE\SocialSphere\SocialSphere\DataAccessLayer\bin\Debug\Models.dll.config
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\bin\Debug\Models.dll
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\bin\Debug\Models.pdb
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\bin\Debug\Models.dll.config
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\SocialSphere (2)\SocialSphere\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
